@@ -120,35 +120,6 @@
 
 ---
 
-### 🌐 <font color="#61DAFB">Connect With Me</font>
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/balaji-goondla-1ab412293" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a> &nbsp;
-<a href="mailto:balajigoondla2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a> &nbsp;
-<a href="https://leetcode.com/u/GB2023006872/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a> &nbsp;
-<a href="https://github.com/GoondlaBalaji" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-</a> &nbsp;
-<a href="https://www.instagram.com/balaji_196" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a> &nbsp;
-<a href="https://t.me/GoondlaBalaji" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
-</div>
-
-<br>
-
----
-
 <div align="center">
 
 ### 🐍 <font color="#A855F7">Contribution Activity & Visitors</font>
