@@ -8,22 +8,23 @@
       <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=18&weight=600&duration=2800&pause=1000&color=38BDF8&center=false&vcenter=true&width=480&lines=AI+%26+Backend+Engineer;Cloud+%26+Generative+AI+Specialist;FastAPI%2C+AWS+%26+RAG+Developer;Data+Analytics+%26+Full+Stack+Systems" alt="Typing SVG" />
       <br><br>
       <a href="https://www.linkedin.com/in/balaji-goondla-1ab412293" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
       </a> &nbsp;
       <a href="mailto:balajigoondla2005@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
       </a> &nbsp;
       <a href="https://leetcode.com/u/GB2023006872/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="26" alt="LeetCode" />
-      </a> &nbsp;
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="25" alt="LeetCode" />
+      </a>
+      <br><br>
       <a href="https://github.com/GoondlaBalaji" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Portfolio" />
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="Portfolio" />
       </a> &nbsp;
       <a href="https://www.instagram.com/balaji_196" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="26" alt="Instagram" />
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" />
       </a> &nbsp;
       <a href="https://t.me/GoondlaBalaji" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="26" alt="Telegram" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram" />
       </a>
     </td>
   </tr>
