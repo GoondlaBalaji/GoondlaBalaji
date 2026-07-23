@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="30%" align="center" valign="middle">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpqd3lwbGJjYzIwdW5ja2IyYnFkc3M4N3hhZG45MjQ0dXdkNjB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" alt="Coding GIF" />
     </td>
     <td width="70%" align="left" valign="middle">
       <h2>Hi 👋, I'm Goondla Balaji</h2>
