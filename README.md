@@ -1,31 +1,31 @@
 <table width="100%">
   <tr>
-    <td width="35%" align="center" valign="middle">
+    <td width="32%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
     </td>
-    <td width="65%" align="left" valign="middle">
+    <td width="68%" align="left" valign="middle">
       <h2><font color="#00D2FF">Hi 👋, I'm </font><font color="#A855F7">Goondla Balaji</font> <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/fire.gif" height="34" style="vertical-align: sub;" alt="Fire GIF" /></h2>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=18&weight=600&duration=2800&pause=1000&color=38BDF8&center=false&vcenter=true&width=480&lines=AI+%26+Backend+Engineer;Cloud+%26+Generative+AI+Specialist;FastAPI%2C+AWS+%26+RAG+Developer;Data+Analytics+%26+Full+Stack+Systems" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=19&weight=600&duration=2800&pause=1000&color=38BDF8&center=false&vcenter=true&width=540&lines=AI+%26+Backend+Engineer;Cloud+%26+Generative+AI+Specialist;FastAPI%2C+AWS+%26+RAG+Developer;Data+Analytics+%26+Full+Stack+Systems" alt="Typing SVG" />
       <p>
         <b><font color="#94A3B8">You can also find me on ...</font></b>
         <br><br>
         <a href="https://www.linkedin.com/in/balaji-goondla-1ab412293" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="32" width="32" alt="LinkedIn" title="LinkedIn"/>
-        </a> &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="34" width="34" alt="LinkedIn" title="LinkedIn"/>
+        </a> &nbsp;&nbsp;&nbsp;
         <a href="mailto:balajigoondla2005@gmail.com">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="32" width="32" alt="Gmail" title="Gmail"/>
-        </a> &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="34" width="34" alt="Gmail" title="Gmail"/>
+        </a> &nbsp;&nbsp;&nbsp;
         <a href="https://leetcode.com/u/GB2023006872/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="32" width="32" alt="LeetCode" title="LeetCode"/>
-        </a> &nbsp;&nbsp;
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="34" width="34" alt="LeetCode" title="LeetCode"/>
+        </a> &nbsp;&nbsp;&nbsp;
         <a href="https://github.com/GoondlaBalaji" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" height="32" width="32" alt="Portfolio" title="Portfolio"/>
-        </a> &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" height="34" width="34" alt="Portfolio" title="Portfolio"/>
+        </a> &nbsp;&nbsp;&nbsp;
         <a href="https://www.instagram.com/balaji_196" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" height="32" width="32" alt="Instagram" title="Instagram"/>
-        </a> &nbsp;&nbsp;
+          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" height="34" width="34" alt="Instagram" title="Instagram"/>
+        </a> &nbsp;&nbsp;&nbsp;
         <a href="https://t.me/GoondlaBalaji" target="_blank">
-          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" height="32" width="32" alt="Telegram" title="Telegram"/>
+          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" height="34" width="34" alt="Telegram" title="Telegram"/>
         </a>
       </p>
     </td>
