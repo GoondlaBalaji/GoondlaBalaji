@@ -14,11 +14,11 @@
 
 <div>
 
-🚀 **AI & Backend Developer** passionate about building scalable applications, cloud-native systems, and AI-powered software.  
-☁️ Experienced with **AWS, FastAPI, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, and RAG**.  
-💻 Focused on **Backend Engineering, Cloud Computing, System Design, and Generative AI** solutions.  
-📊 **Data Analyst** proficient in extracting actionable insights using Python, SQL, and Power BI dashboards.  
-📱 Computer Science student at **GITAM University** actively exploring **Android App Development** with Kotlin.
+🎓 **Senior CS Student at GITAM University** (**CGPA: 9.12**) specializing in AI, Backend Engineering & Data Analytics.  
+💼 **AI Intern & SME (Team Lead) at PRAJNA AI** (building AI faculty management on AWS serverless with Cognito, S3, & CDK).  
+☁️ Skilled in **AWS, FastAPI, React.js, Node.js, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, RAG, & MCP**.  
+📊 **Data Analyst** proficient in extracting actionable business insights using Python, SQL, DAX, and Power BI dashboards.  
+🏆 **Rank 25 / 600+** in GDG Cloud Kochi Code Vipassana | **270+ Solved on LeetCode** (100 Days Badge) | **Google Certified**.
 
 </div>
 
@@ -48,15 +48,31 @@
 
 ---
 
+### 💼 Experience & Key Achievements
+
+- 🚀 **AI Intern & SME (Team Lead)** — *PRAJNA AI* (May 2026 – Present)  
+  Selected as SME & Team Lead for a 6-member team; built PRAJNA AI faculty management platform using AWS Cognito, S3, and AWS CDK.
+- 🏢 **ERP Application Development Intern** — *Gulf Consult, Kuwait* (June 2026 – Present)  
+  Assisted in DB design & development for TSMS, HRMS, and Payroll Systems.
+- 🚘 **Data Processing Intern** — *PathVision Innovations* (May – June 2026)  
+  Contributed to ADAS research and vehicle data analysis for intelligent mobility.
+- 🏆 **GDG Cloud Kochi Code Vipassana (Seasons 13 & 14)**: Secured **Rank 25 / 600+** participants in Google Cloud & AI applications.
+- 🧩 **LeetCode**: **270+ Problems Solved** (113 Easy, 139 Med, 18 Hard) | **100 Days Badge 2026** | 650+ Submissions.
+- 📜 **Certifications**: **Google Prompt Engineering** (Coursera) & **Cisco Networking Basics**.
+
+<br>
+
+---
+
 ### 📌 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🚀 **[PayPilot AI](https://github.com/GoondlaBalaji)** | AI-driven smart payment and financial automation tool. | `FastAPI` `OpenAI` `React` `PostgreSQL` |
-| 📊 **[AI Item Factor Analyzer](https://github.com/GoondlaBalaji)** | Intelligent product & item factor analyzer using machine learning & RAG. | `Python` `LangChain` `RAG` `Pandas` |
-| 📈 **[Amazon Sales Analytics Dashboard](https://github.com/GoondlaBalaji)** | Comprehensive analytics dashboard extracting business insights from sales data. | `Power BI` `Python` `NumPy` `MySQL` |
+| 🚀 **[PayPilot AI](https://github.com/GoondlaBalaji)** | AI-driven financial SaaS with automated bill processing & expense tracking. | `React` `Node.js` `MongoDB` `AWS Cognito` `Groq AI` |
+| 📊 **[AI Item Factor Analyzer](https://github.com/GoondlaBalaji)** | Full-stack AI web app featuring real-time streaming, RAG & WebSockets. | `Next.js` `TypeScript` `FastAPI` `Groq AI` `WebSockets` |
+| 📈 **[Amazon Sales Analytics](https://github.com/GoondlaBalaji)** | Interactive Power BI analytics dashboard supported by PostgreSQL data models. | `Power BI` `PostgreSQL` `Python` `DAX` |
 
 </div>
 
@@ -92,7 +108,7 @@
 <a href="mailto:balajigoondla2005@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a> &nbsp;
-<a href="https://leetcode.com/u/GoondlaBalaji/" target="_blank">
+<a href="https://leetcode.com/u/GB2023006872/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a> &nbsp;
 <a href="https://github.com/GoondlaBalaji" target="_blank">
