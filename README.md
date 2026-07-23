@@ -1,11 +1,18 @@
 <table width="100%">
   <tr>
-    <td width="40%" align="center" valign="middle">
+    <td width="38%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
     </td>
-    <td width="60%" align="left" valign="middle">
+    <td width="62%" align="left" valign="middle">
       <h2><font color="#00D2FF">Hi 👋, I'm </font><font color="#A855F7">Goondla Balaji</font></h2>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2800&pause=1000&color=61DAFB&center=false&vcenter=true&width=440&lines=AI+%26+Backend+Developer;Cloud+%26+Generative+AI+Enthusiast;FastAPI+%26+AWS+Engineer;Data+Analytics+%26+Full+Stack" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=17&weight=600&duration=2800&pause=1000&color=38BDF8&center=false&vcenter=true&width=480&lines=AI+%26+Backend+Engineer;Cloud+%26+Generative+AI+Specialist;FastAPI%2C+AWS+%26+RAG+Developer;Data+Analytics+%26+Full+Stack+Systems" alt="Typing SVG" />
+      <p>
+        🎓 <font color="#38BDF8"><b>Senior CS Student</b></font> @ GITAM (<font color="#FACC15"><b>CGPA: 9.12</b></font>)  
+        <br>
+        💼 <font color="#A855F7"><b>AI Intern & SME (Team Lead)</b></font> @ PRAJNA AI  
+        <br>
+        📍 <font color="#34D399"><b>Bangalore Rural, Karnataka, India</b></font>
+      </p>
     </td>
   </tr>
 </table>
