@@ -1,18 +1,30 @@
 <table width="100%">
   <tr>
-    <td width="38%" align="center" valign="middle">
+    <td width="35%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
     </td>
-    <td width="62%" align="left" valign="middle">
+    <td width="65%" align="left" valign="middle">
       <h2><font color="#00D2FF">Hi 👋, I'm </font><font color="#A855F7">Goondla Balaji</font></h2>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=17&weight=600&duration=2800&pause=1000&color=38BDF8&center=false&vcenter=true&width=480&lines=AI+%26+Backend+Engineer;Cloud+%26+Generative+AI+Specialist;FastAPI%2C+AWS+%26+RAG+Developer;Data+Analytics+%26+Full+Stack+Systems" alt="Typing SVG" />
-      <p>
-        🎓 <font color="#38BDF8"><b>Senior CS Student</b></font> @ GITAM (<font color="#FACC15"><b>CGPA: 9.12</b></font>)  
-        <br>
-        💼 <font color="#A855F7"><b>AI Intern & SME (Team Lead)</b></font> @ PRAJNA AI  
-        <br>
-        📍 <font color="#34D399"><b>Bangalore Rural, Karnataka, India</b></font>
-      </p>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=18&weight=600&duration=2800&pause=1000&color=38BDF8&center=false&vcenter=true&width=480&lines=AI+%26+Backend+Engineer;Cloud+%26+Generative+AI+Specialist;FastAPI%2C+AWS+%26+RAG+Developer;Data+Analytics+%26+Full+Stack+Systems" alt="Typing SVG" />
+      <br><br>
+      <a href="https://www.linkedin.com/in/balaji-goondla-1ab412293" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
+      </a> &nbsp;
+      <a href="mailto:balajigoondla2005@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Gmail" />
+      </a> &nbsp;
+      <a href="https://leetcode.com/u/GB2023006872/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="26" alt="LeetCode" />
+      </a> &nbsp;
+      <a href="https://github.com/GoondlaBalaji" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="26" alt="Portfolio" />
+      </a> &nbsp;
+      <a href="https://www.instagram.com/balaji_196" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="26" alt="Instagram" />
+      </a> &nbsp;
+      <a href="https://t.me/GoondlaBalaji" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="26" alt="Telegram" />
+      </a>
     </td>
   </tr>
 </table>
