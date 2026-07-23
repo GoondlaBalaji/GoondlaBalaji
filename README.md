@@ -1,10 +1,10 @@
 <table>
   <tr>
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" height="170" style="max-width:100%; border-radius:10px;" alt="Coding GIF" />
+      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" height="175" style="max-width:100%; border-radius:12px;" alt="Coding GIF" />
     </td>
     <td width="65%" align="left" valign="middle">
-      <h2>Hi 👋, I'm Goondla Balaji</h2>
+      <h2><font color="#00D2FF">Hi 👋, I'm </font><font color="#A855F7">Goondla Balaji</font></h2>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=19&duration=2800&pause=1000&color=61DAFB&center=false&vcenter=true&width=520&lines=AI+%26+Backend+Developer;Cloud+%26+Generative+AI+Enthusiast;FastAPI+%26+AWS+Engineer;Data+Analytics+%26+Full+Stack" alt="Typing SVG" />
     </td>
   </tr>
@@ -14,11 +14,11 @@
 
 <div>
 
-🎓 **Senior CS Student at GITAM University** (**CGPA: 9.12**) specializing in AI, Backend Engineering & Data Analytics.  
-💼 **AI Intern & SME (Team Lead) at PRAJNA AI** (building AI faculty management on AWS serverless with Cognito, S3, & CDK).  
-☁️ Skilled in **AWS, FastAPI, React.js, Node.js, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, RAG, & MCP**.  
-📊 **Data Analyst** proficient in extracting actionable business insights using Python, SQL, DAX, and Power BI dashboards.  
-🏆 **Rank 25 / 600+** in GDG Cloud Kochi Code Vipassana | **270+ Solved on LeetCode** (100 Days Badge) | **Google Certified**.
+🎓 <font color="#38BDF8"><b>Senior CS Student at GITAM University</b></font> (<font color="#FACC15"><b>CGPA: 9.12 / 10</b></font>) specializing in AI, Backend Engineering & Data Analytics.  
+💼 <font color="#A855F7"><b>AI Intern & SME (Team Lead) at PRAJNA AI</b></font> (building AI faculty management on AWS serverless with Cognito, S3, & CDK).  
+☁️ Skilled in <font color="#34D399"><b>AWS, FastAPI, React.js, Node.js, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, RAG, & MCP</b></font>.  
+📊 <font color="#F43F5E"><b>Data Analyst</b></font> proficient in extracting actionable business insights using Python, SQL, DAX, and Power BI dashboards.  
+🏆 <font color="#FB923C"><b>Rank 25 / 600+</b></font> in GDG Cloud Kochi Code Vipassana | <font color="#FFA116"><b>270+ Solved on LeetCode</b></font> (100 Days Badge) | <b>Google Certified</b>.
 
 </div>
 
@@ -27,7 +27,7 @@
 ---
 
 
-### 🛠️ Languages & Tools
+### 🛠️ <font color="#00D2FF">Languages & Tools</font>
 
 <div align="center">
 
@@ -48,23 +48,23 @@
 
 ---
 
-### 💼 Experience & Key Achievements
+### 💼 <font color="#A855F7">Experience & Key Achievements</font>
 
-- 🚀 **AI Intern & SME (Team Lead)** — *PRAJNA AI* (May 2026 – Present)  
-  Selected as SME & Team Lead for a 6-member team; built PRAJNA AI faculty management platform using AWS Cognito, S3, and AWS CDK.
-- 🏢 **ERP Application Development Intern** — *Gulf Consult, Kuwait* (June 2026 – Present)  
+- 🚀 <font color="#38BDF8"><b>AI Intern & SME (Team Lead)</b></font> — <i>PRAJNA AI</i> (May 2026 – Present)  
+  Selected as SME & Team Lead for a 6-member team; built PRAJNA AI faculty management platform using <font color="#34D399"><b>AWS Cognito, S3, and AWS CDK</b></font>.
+- 🏢 <font color="#38BDF8"><b>ERP Application Development Intern</b></font> — <i>Gulf Consult, Kuwait</i> (June 2026 – Present)  
   Assisted in DB design & development for TSMS, HRMS, and Payroll Systems.
-- 🚘 **Data Processing Intern** — *PathVision Innovations* (May – June 2026)  
+- 🚘 <font color="#38BDF8"><b>Data Processing Intern</b></font> — <i>PathVision Innovations</i> (May – June 2026)  
   Contributed to ADAS research and vehicle data analysis for intelligent mobility.
-- 🏆 **GDG Cloud Kochi Code Vipassana (Seasons 13 & 14)**: Secured **Rank 25 / 600+** participants in Google Cloud & AI applications.
-- 🧩 **LeetCode**: **270+ Problems Solved** (113 Easy, 139 Med, 18 Hard) | **100 Days Badge 2026** | 650+ Submissions.
-- 📜 **Certifications**: **Google Prompt Engineering** (Coursera) & **Cisco Networking Basics**.
+- 🏆 <font color="#FB923C"><b>GDG Cloud Kochi Code Vipassana (Seasons 13 & 14)</b></font>: Secured <font color="#FACC15"><b>Rank 25 / 600+</b></font> participants in Google Cloud & AI applications.
+- 🧩 <font color="#FFA116"><b>LeetCode</b></font>: <font color="#38BDF8"><b>270+ Problems Solved</b></font> (113 Easy, 139 Med, 18 Hard) | <font color="#F43F5E"><b>100 Days Badge 2026</b></font> | 650+ Submissions.
+- 📜 <font color="#34D399"><b>Certifications</b></font>: <b>Google Prompt Engineering</b> (Coursera) & <b>Cisco Networking Basics</b>.
 
 <br>
 
 ---
 
-### 📌 Featured Projects
+### 📌 <font color="#34D399">Featured Projects</font>
 
 <div align="center">
 
@@ -80,7 +80,7 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 <font color="#FB923C">GitHub Statistics</font>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GoondlaBalaji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Goondla Balaji's GitHub Stats" />
@@ -98,7 +98,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 <font color="#61DAFB">Connect With Me</font>
 
 <div align="center">
 
@@ -129,7 +129,7 @@
 
 <div align="center">
 
-### 🐍 Contribution Activity & Visitors
+### 🐍 <font color="#A855F7">Contribution Activity & Visitors</font>
 
 ![Snake Animation](https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/output/github-snake-dark.svg)
 
