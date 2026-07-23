@@ -4,7 +4,7 @@
       <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
     </td>
     <td width="65%" align="left" valign="middle">
-      <h2><font color="#00D2FF">Hi 👋, I'm </font><font color="#A855F7">Goondla Balaji</font> &nbsp; <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/planet.gif" height="32" style="vertical-align: middle;" alt="Planet GIF" /></h2>
+      <h2><font color="#00D2FF">Hi 👋, I'm </font><font color="#A855F7">Goondla Balaji</font> &nbsp; <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/warrior.gif" height="32" style="vertical-align: middle;" alt="Warrior GIF" /></h2>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=18&weight=600&duration=2800&pause=1000&color=38BDF8&center=false&vcenter=true&width=480&lines=AI+%26+Backend+Engineer;Cloud+%26+Generative+AI+Specialist;FastAPI%2C+AWS+%26+RAG+Developer;Data+Analytics+%26+Full+Stack+Systems" alt="Typing SVG" />
       <p>
         <b><font color="#94A3B8">You can also find me on ...</font></b>
