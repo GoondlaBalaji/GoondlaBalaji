@@ -1,11 +1,11 @@
 <table width="100%">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" height="155" style="max-width:100%; border-radius:10px;" alt="Coding GIF" />
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
     </td>
-    <td width="70%" align="left" valign="middle">
+    <td width="60%" align="left" valign="middle">
       <h2><font color="#00D2FF">Hi 👋, I'm </font><font color="#A855F7">Goondla Balaji</font></h2>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=19&duration=2800&pause=1000&color=61DAFB&center=false&vcenter=true&width=580&lines=AI+%26+Backend+Developer;Cloud+%26+Generative+AI+Enthusiast;FastAPI+%26+AWS+Engineer;Data+Analytics+%26+Full+Stack" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2800&pause=1000&color=61DAFB&center=false&vcenter=true&width=440&lines=AI+%26+Backend+Developer;Cloud+%26+Generative+AI+Enthusiast;FastAPI+%26+AWS+Engineer;Data+Analytics+%26+Full+Stack" alt="Typing SVG" />
     </td>
   </tr>
 </table>
