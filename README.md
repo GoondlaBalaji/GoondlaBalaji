@@ -1,23 +1,31 @@
-<h1 align="center">Hi 👋, I'm Goondla Balaji</h1>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2800&pause=1000&color=61DAFB&center=true&vcenter=true&width=550&lines=AI+%26+Backend+Developer;Cloud+%26+Generative+AI+Enthusiast;FastAPI+%26+AWS+Engineer;Data+Analytics+%26+Full+Stack" alt="Typing SVG" />
-</div>
+<table>
+  <tr>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenpqd3lwbGJjYzIwdW5ja2IyYnFkc3M4N3hhZG45MjQ0dXdkNjB6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="100%" alt="Coding GIF" />
+    </td>
+    <td width="70%" align="left" valign="middle">
+      <h2>Hi 👋, I'm Goondla Balaji</h2>
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2800&pause=1000&color=61DAFB&center=false&vcenter=true&width=450&lines=AI+%26+Backend+Developer;Cloud+%26+Generative+AI+Enthusiast;FastAPI+%26+AWS+Engineer;Data+Analytics+%26+Full+Stack" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<div align="center">
+<div>
 
 🚀 **AI & Backend Developer** passionate about building scalable applications, cloud-native systems, and AI-powered software.  
 ☁️ Experienced with **AWS, FastAPI, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, and RAG**.  
-💻 Interested in **Backend Engineering, Cloud Computing, System Design, and Generative AI**.  
-📱 Also exploring **Android Development** with Kotlin.
+💻 Focused on **Backend Engineering, Cloud Computing, System Design, and Generative AI** solutions.  
+📊 **Data Analyst** proficient in extracting actionable insights using Python, SQL, and Power BI dashboards.  
+📱 Computer Science student at **GITAM University** actively exploring **Android App Development** with Kotlin.
 
 </div>
 
 <br>
 
 ---
+
 
 ### 🛠️ Languages & Tools
 
