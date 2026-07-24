@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="260" viewBox="0 0 780 260">
+  <defs>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#A855F7" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#34D399" stop-opacity="0.7"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </radialGradient>
+    <pattern id="scanlines" width="100%" height="4" patternUnits="userSpaceOnUse">
+      <rect width="100%" height="1" fill="#38BDF8" opacity="0.03"/>
+    </pattern>
+    <style>
+      .term-title { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 13px; fill: #94A3B8; font-weight: 600; }
+      .term-prompt { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; fill: #C084FC; font-weight: 700; }
+      .label-cyan { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; fill: #38BDF8; font-weight: 600; }
+      .label-dots { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; fill: #334155; }
+      .val-white { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; fill: #F8FAFC; font-weight: 500; }
+      .val-green { font-family: 'Fira Code', Consolas, Monaco, monospace; font-size: 14px; fill: #34D399; font-weight: 600; }
+      .cursor { fill: #38BDF8; animation: blink 0.9s infinite; }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+      /* Sequential Typing reveal animations */
+      .line-1 { opacity: 0; animation: fadeIn 0.4s 0.2s forwards; }
+      .line-2 { opacity: 0; animation: fadeIn 0.4s 0.5s forwards; }
+      .line-3 { opacity: 0; animation: fadeIn 0.4s 0.8s forwards; }
+      .line-4 { opacity: 0; animation: fadeIn 0.4s 1.1s forwards; }
+      .line-5 { opacity: 0; animation: fadeIn 0.4s 1.4s forwards; }
+
+      @keyframes fadeIn { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- Outer Glass Frame -->
+  <rect x="2" y="2" width="776" height="256" rx="12" fill="url(#bgGlow)" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  <rect x="2" y="2" width="776" height="256" rx="12" fill="url(#scanlines)"/>
+
+  <!-- Top Terminal Header Bar -->
+  <rect x="2" y="2" width="776" height="36" rx="12" fill="#1E293B" opacity="0.7"/>
+  <circle cx="22" cy="20" r="5.5" fill="#EF4444"/>
+  <circle cx="38" cy="20" r="5.5" fill="#F59E0B"/>
+  <circle cx="54" cy="20" r="5.5" fill="#10B981"/>
+  <text x="75" y="24" class="term-title">balaji@devos ~ % ./profile.sh --live</text>
+
+  <!-- Live Pulse Dot -->
+  <circle cx="745" cy="20" r="4" fill="#34D399">
+    <animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="690" y="24" class="term-title" font-size="11" fill="#34D399">ONLINE</text>
+
+  <!-- Divider line -->
+  <line x1="2" y1="38" x2="778" y2="38" stroke="#334155" stroke-width="1"/>
+
+  <!-- Terminal Content Lines -->
+  <g transform="translate(24, 40)">
+    <!-- Line 1: Header / Subject -->
+    <g class="line-1">
+      <text x="0" y="32" class="term-prompt">SYSTEM.INFO</text>
+      <line x1="105" y1="27" x2="720" y2="27" stroke="#334155" stroke-width="1" stroke-dasharray="4,4"/>
+    </g>
+
+    <!-- Line 2: Subject / Name -->
+    <g class="line-2">
+      <text x="10" y="66" class="label-cyan">. Subject:</text>
+      <text x="110" y="66" class="label-dots">............................</text>
+      <text x="360" y="66" class="val-white" font-weight="700">Goondla Balaji</text>
+    </g>
+
+    <!-- Line 3: Role -->
+    <g class="line-3">
+      <text x="10" y="100" class="label-cyan">. Role:</text>
+      <text x="110" y="100" class="label-dots">............................</text>
+      <text x="360" y="100" class="val-white">AI &amp; Backend Engineer • Cloud Specialist</text>
+    </g>
+
+    <!-- Line 4: Tech Stack -->
+    <g class="line-4">
+      <text x="10" y="134" class="label-cyan">. Stack:</text>
+      <text x="110" y="134" class="label-dots">............................</text>
+      <text x="360" y="134" class="val-white">FastAPI • AWS • RAG • Python • PostgreSQL</text>
+    </g>
+
+    <!-- Line 5: Status & Blinking Cursor -->
+    <g class="line-5">
+      <text x="10" y="168" class="label-cyan">. Status:</text>
+      <text x="110" y="168" class="label-dots">............................</text>
+      <text x="360" y="168" class="val-green">Building • Learning • Shipping</text>
+      <rect x="625" y="154" width="8" height="16" class="cursor"/>
+    </g>
+  </g>
+</svg>
