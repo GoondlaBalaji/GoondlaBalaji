@@ -1,9 +1,9 @@
 <table width="100%">
   <tr>
-    <td width="30%" align="center" valign="middle">
+    <td width="38%" align="center" valign="middle">
       <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
     </td>
-    <td width="70%" align="left" valign="middle">
+    <td width="62%" align="left" valign="middle">
       <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/terminal.gif?v=6" width="100%" alt="Terminal Profile Header" />
       <p align="left">
         <b><font color="#94A3B8">You can also find me on ...</font></b>
