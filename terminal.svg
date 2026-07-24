@@ -22,7 +22,7 @@
       .cursor { fill: #38BDF8; animation: blink 0.9s infinite; }
       @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 
-      /* Sequential Typing reveal animations */
+      /* Sequential Typing reveal animations for static lines */
       .line-1 { opacity: 0; animation: fadeIn 0.4s 0.2s forwards; }
       .line-2 { opacity: 0; animation: fadeIn 0.4s 0.5s forwards; }
       .line-3 { opacity: 0; animation: fadeIn 0.4s 0.8s forwards; }
@@ -30,6 +30,32 @@
       .line-5 { opacity: 0; animation: fadeIn 0.4s 1.4s forwards; }
 
       @keyframes fadeIn { to { opacity: 1; } }
+
+      /* Infinite Role Rotation Animation */
+      .role-1 { animation: roleAnim1 12s infinite; }
+      .role-2 { animation: roleAnim2 12s infinite; }
+      .role-3 { animation: roleAnim3 12s infinite; }
+      .role-4 { animation: roleAnim4 12s infinite; }
+
+      @keyframes roleAnim1 {
+        0%, 22% { opacity: 1; }
+        25%, 100% { opacity: 0; }
+      }
+      @keyframes roleAnim2 {
+        0%, 22% { opacity: 0; }
+        25%, 47% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes roleAnim3 {
+        0%, 47% { opacity: 0; }
+        50%, 72% { opacity: 1; }
+        75%, 100% { opacity: 0; }
+      }
+      @keyframes roleAnim4 {
+        0%, 72% { opacity: 0; }
+        75%, 97% { opacity: 1; }
+        100% { opacity: 0; }
+      }
     </style>
   </defs>
 
@@ -68,26 +94,31 @@
       <text x="360" y="66" class="val-white" font-weight="700">Goondla Balaji</text>
     </g>
 
-    <!-- Line 3: Role -->
+    <!-- Line 3: Dynamic Rotating Roles Animation -->
     <g class="line-3">
       <text x="10" y="100" class="label-cyan">. Role:</text>
       <text x="110" y="100" class="label-dots">............................</text>
-      <text x="360" y="100" class="val-white">AI &amp; Backend Engineer • Cloud Specialist</text>
+      <g>
+        <text x="360" y="100" class="val-white role-1">AI &amp; Backend Engineer</text>
+        <text x="360" y="100" class="val-white role-2">Cloud &amp; Generative AI Specialist</text>
+        <text x="360" y="100" class="val-white role-3">FastAPI, AWS &amp; RAG Developer</text>
+        <text x="360" y="100" class="val-white role-4">Data Analytics &amp; Full Stack Systems</text>
+      </g>
     </g>
 
-    <!-- Line 4: Tech Stack -->
+    <!-- Line 4: Status (Eat • Code • Sleep • Repeat) -->
     <g class="line-4">
-      <text x="10" y="134" class="label-cyan">. Stack:</text>
+      <text x="10" y="134" class="label-cyan">. Status:</text>
       <text x="110" y="134" class="label-dots">............................</text>
-      <text x="360" y="134" class="val-white">FastAPI • AWS • RAG • Python • PostgreSQL</text>
+      <text x="360" y="134" class="val-green">Eat • Code • Sleep • Repeat 🔁</text>
     </g>
 
-    <!-- Line 5: Status & Blinking Cursor -->
+    <!-- Line 5: Tech Stack & Blinking Cursor -->
     <g class="line-5">
-      <text x="10" y="168" class="label-cyan">. Status:</text>
+      <text x="10" y="168" class="label-cyan">. Stack:</text>
       <text x="110" y="168" class="label-dots">............................</text>
-      <text x="360" y="168" class="val-green">Building • Learning • Shipping</text>
-      <rect x="625" y="154" width="8" height="16" class="cursor"/>
+      <text x="360" y="168" class="val-white">FastAPI • AWS • RAG • Python • PostgreSQL</text>
+      <rect x="675" y="154" width="8" height="16" class="cursor"/>
     </g>
   </g>
 </svg>
