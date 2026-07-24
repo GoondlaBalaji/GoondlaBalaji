@@ -4,7 +4,7 @@
       <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/coding.gif" width="100%" style="border-radius:10px;" alt="Coding GIF" />
     </td>
     <td width="70%" align="left" valign="middle">
-      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/terminal.gif?v=5" width="100%" alt="Terminal Profile Header" />
+      <img src="https://raw.githubusercontent.com/GoondlaBalaji/GoondlaBalaji/main/terminal.gif?v=6" width="100%" alt="Terminal Profile Header" />
       <p align="left">
         <b><font color="#94A3B8">You can also find me on ...</font></b>
         <br><br>
