@@ -25,6 +25,9 @@
         </a> &nbsp;&nbsp;&nbsp;
         <a href="https://t.me/GoondlaBalaji" target="_blank">
           <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" height="22" width="22" alt="Telegram" title="Telegram"/>
+        </a> &nbsp;&nbsp;&nbsp;
+        <a href="https://discord.com/users/balaji_9696_47165" target="_blank">
+          <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg" height="22" width="22" alt="Discord" title="Discord: balaji_9696_47165"/>
         </a>
       </p>
     </td>
