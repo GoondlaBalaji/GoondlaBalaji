@@ -90,9 +90,9 @@
 
 <div align="center">
 
-| Description | Tech Stack Used | Live Link |
-| :--- | :--- | :---: |
-| ⚡ **Casual Blog**<br>Full-stack production-ready RESTful blogging & content platform featuring async PostgreSQL operations, AWS S3 image storage, JWT authentication, background task email processing, UV package manager, and Docker multi-stage deployment. | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/UV_Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Pytest_Async-0A9EDC?style=flat&logo=pytest&logoColor=white" height="22"/> | [<img src="https://img.shields.io/badge/🌐_Visit_Casual_Blog_Live-00D2FF?style=for-the-badge&logo=render&logoColor=black" height="28"/>](https://blog-app-using-fastapi.onrender.com/) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| ⚡ **[Casual Blog](https://blog-app-using-fastapi.onrender.com/)** | Full-stack production-ready RESTful blogging & content platform featuring async PostgreSQL operations, AWS S3 image storage, JWT authentication, background task email processing, UV package manager, and Docker multi-stage deployment. | `FastAPI` `PostgreSQL` `AWS S3` `Docker` `UV Python` `Pytest Async` |
 
 </div>
 
