@@ -86,6 +86,19 @@
 
 <br>
 
+### 🌐 <font color="#38BDF8">Live & Deployed Production Systems</font>
+
+<div align="center">
+
+| System & Live URL | Description | Tech Stack Used | Code & Live Links |
+| :--- | :--- | :--- | :---: |
+| ⚡ **[FastAPI Production Blog Platform](https://blog-app-using-fastapi.onrender.com/)** | Full-stack production-ready RESTful blogging & content platform featuring async PostgreSQL operations, AWS S3 image storage, JWT authentication, background task email processing, UV package manager, and Docker multi-stage deployment. | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/UV_Python-3776AB?style=flat&logo=python&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/Pytest_Async-0A9EDC?style=flat&logo=pytest&logoColor=white" height="22"/> | [<img src="https://img.shields.io/badge/🌐_Visit_Live_Website-00D2FF?style=for-the-badge&logo=render&logoColor=black" height="26"/>](https://blog-app-using-fastapi.onrender.com/)<br><br>[<img src="https://img.shields.io/badge/💻_View_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" height="24"/>](https://github.com/GoondlaBalaji/blog-app-using-fastapi) |
+| 🛡️ **[PRAJNA Core AI Platform](https://github.com/GoondlaBalaji/prajna-paltform)** | Enterprise AI & Serverless Faculty Management Platform built with AWS CDK Infrastructure-as-Code, Amazon Cognito user authentication, S3 document storage, FastAPI microservices, and LLM RAG pipelines. | <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/AWS_Cognito-DD344C?style=flat&logo=amazon-aws&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="22"/> <img src="https://img.shields.io/badge/LangChain_RAG-1C3C3C?style=flat&logo=langchain&logoColor=white" height="22"/> | [<img src="https://img.shields.io/badge/💻_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" height="26"/>](https://github.com/GoondlaBalaji/prajna-paltform) |
+
+</div>
+
+<br>
+
 ---
 
 ### 📌 <font color="#34D399">Featured Projects</font>
