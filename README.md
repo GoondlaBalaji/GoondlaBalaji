@@ -40,7 +40,7 @@
 
 🎓 <font color="#38BDF8"><b>Senior CS Student at GITAM University</b></font> (<font color="#FACC15"><b>CGPA: 9.12 / 10</b></font>) specializing in AI, Backend Engineering & Data Analytics.  
 💼 <font color="#A855F7"><b>AI Intern & SME (Team Lead) at PRAJNA AI</b></font> (building AI faculty management on AWS serverless with Cognito, S3, & CDK).  
-☁️ Skilled in <font color="#34D399"><b>AWS, FastAPI, React.js, Node.js, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, RAG, & MCP</b></font>.  
+🛠️ Skilled in <font color="#34D399"><b>AWS, FastAPI, React.js, Node.js, PostgreSQL, Docker, Kubernetes, OpenAI APIs, LangChain, RAG, & MCP</b></font>.  
 📊 <font color="#F43F5E"><b>Data Analyst</b></font> proficient in extracting actionable business insights using Python, SQL, DAX, and Power BI dashboards.  
 🏆 <font color="#FB923C"><b>Rank 25 / 600+</b></font> in GDG Cloud Kochi Code Vipassana | <font color="#FFA116"><b>270+ Solved on LeetCode</b></font> (100 Days Badge) | <b>Google Certified</b>.
 
@@ -74,11 +74,11 @@
 
 ### 💼 <font color="#A855F7">Experience & Key Achievements</font>
 
-- 🚀 <font color="#38BDF8"><b>AI Intern & SME (Team Lead)</b></font> — <i>PRAJNA AI</i> (May 2026 – Present)  
+- 👨‍💻 <font color="#38BDF8"><b>AI Intern & SME (Team Lead)</b></font> - <i>PRAJNA AI</i> (May 2026 - Present)  
   Selected as SME & Team Lead for a 6-member team; built PRAJNA AI faculty management platform using <font color="#34D399"><b>AWS Cognito, S3, and AWS CDK</b></font>.
-- 🏢 <font color="#38BDF8"><b>ERP Application Development Intern</b></font> — <i>Gulf Consult, Kuwait</i> (June 2026 – Present)  
+- 🏢 <font color="#38BDF8"><b>ERP Application Development Intern</b></font> - <i>Gulf Consult, Kuwait</i> (June 2026 - Present)  
   Assisted in DB design & development for TSMS, HRMS, and Payroll Systems.
-- 🚘 <font color="#38BDF8"><b>Data Processing Intern</b></font> — <i>PathVision Innovations</i> (May – June 2026)  
+- 🚗 <font color="#38BDF8"><b>Data Processing Intern</b></font> - <i>PathVision Innovations</i> (May - June 2026)  
   Contributed to ADAS research and vehicle data analysis for intelligent mobility.
 - 🏆 <font color="#FB923C"><b>GDG Cloud Kochi Code Vipassana (Seasons 13 & 14)</b></font>: Secured <font color="#FACC15"><b>Rank 25 / 600+</b></font> participants in Google Cloud & AI applications.
 - 🧩 <font color="#FFA116"><b>LeetCode</b></font>: <font color="#38BDF8"><b>270+ Problems Solved</b></font> (113 Easy, 139 Med, 18 Hard) | <font color="#F43F5E"><b>100 Days Badge 2026</b></font> | 650+ Submissions.
@@ -86,13 +86,13 @@
 
 <br>
 
-### 🌐 <font color="#38BDF8">Live & Deployed Production Systems</font>
+### 🚀 <font color="#38BDF8">Live & Deployed Production Systems</font>
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| ⚡ **[Casual Blog](https://blog-app-using-fastapi.onrender.com/)** | Full-stack production-ready RESTful blogging & content platform featuring async PostgreSQL operations, AWS S3 image storage, JWT authentication, background task email processing, UV package manager, and Docker multi-stage deployment. | `FastAPI` `PostgreSQL` `AWS S3` `Docker` `UV Python` `Pytest Async` |
+| 🚀 **[Casual Blog](https://blog-app-using-fastapi.onrender.com/)** | Full-stack production-ready RESTful blogging & content platform featuring async PostgreSQL operations, AWS S3 image storage, JWT authentication, background task email processing, UV package manager, and Docker multi-stage deployment. | `FastAPI` `PostgreSQL` `AWS S3` `Docker` `UV Python` `Pytest Async` |
 
 </div>
 
@@ -100,14 +100,14 @@
 
 ---
 
-### 📌 <font color="#34D399">Featured Projects</font>
+### 💻 <font color="#34D399">Featured Projects</font>
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🚀 **[PayPilot AI](https://github.com/GoondlaBalaji)** | AI-driven financial SaaS with automated bill processing & expense tracking. | `React` `Node.js` `MongoDB` `AWS Cognito` `Groq AI` |
-| 📊 **[AI Item Factor Analyzer](https://github.com/GoondlaBalaji)** | Full-stack AI web app featuring real-time streaming, RAG & WebSockets. | `Next.js` `TypeScript` `FastAPI` `Groq AI` `WebSockets` |
+| 💳 **[PayPilot AI](https://github.com/GoondlaBalaji)** | AI-driven financial SaaS with automated bill processing & expense tracking. | `React` `Node.js` `MongoDB` `AWS Cognito` `Groq AI` |
+| ⚡ **[AI Item Factor Analyzer](https://github.com/GoondlaBalaji)** | Full-stack AI web app featuring real-time streaming, RAG & WebSockets. | `Next.js` `TypeScript` `FastAPI` `Groq AI` `WebSockets` |
 | 📈 **[Amazon Sales Analytics](https://github.com/GoondlaBalaji)** | Interactive Power BI analytics dashboard supported by PostgreSQL data models. | `Power BI` `PostgreSQL` `Python` `DAX` |
 
 </div>
